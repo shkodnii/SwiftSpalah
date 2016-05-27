@@ -2,7 +2,8 @@
 
 import UIKit
 
-class TEST {
+//class
+class Test {
     var name: String? = nil
     var age: Int? = nil
     
@@ -16,5 +17,9 @@ class TEST {
     }
 
 }
+//in progress...
 
-///in progress...
+
+
+
+
